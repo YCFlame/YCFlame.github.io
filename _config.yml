@@ -1,0 +1,34 @@
+remote_theme: ycflame/reverie
+excerpt_separator: "<!--more-->"
+
+# settings for reverie theme
+name: Beyond Chaos
+author: Bob
+description: A Chinese Engineer working at an American company in Japan
+avatar: /images/avatar.png
+
+footer-links:
+    github: ycflame
+    rss: rss
+    twitter: beyondchaos
+    stackoverflow: users/716481/ycflame?tab=profile
+
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+include: ['_pages']
+
+paginate: 6
+paginate_path: /page:num/
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
