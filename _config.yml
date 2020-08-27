@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 # settings for reverie theme
 name: Beyond Chaos
 author: Bob
-description: Chinese Engineer at a U.S. company in Japan
+description: Systematic Engineer, Synthetic Life.
 avatar: /images/avatar.png
 
 footer-links:
@@ -19,6 +19,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-remote-theme
 
 include: ['_pages']
 
