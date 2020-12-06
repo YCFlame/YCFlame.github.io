@@ -15,6 +15,8 @@ After about two months' preparation, I got my Professional Cloud Architect certi
 
 According to [Canalys' report](https://www.canalys.com/newsroom/worldwide-cloud-market-q320), Google only possesses 7% of the whole cloud market in Q3 this year, comparing to Microsoft's 19% and Amazon's 32%. Amazon's AWS stepped into this arena first, and Microsoft Azure expands its share from Enterprise customers who using Windows and Office. It must be very difficult for Google to catch up, so why choose a GCP certificate now?
 
+![Cloud Certifiate Ranking](/images/certificate-ranking.png)
+
 Global Knowledge said in [15 Top-Paying IT Certifications for 2020](https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/) that GCP Cloud Architects earn an average of $175,761 in the U.S., about $26,000 more than AWS Certified Solutions Architect per year. A possible reason would be the supply-demand relationship: Engineers with Cloud Architect certificate aren't enough in the market. You may choose AWS if you want to fit in more positions, but a GCP Cloud Architect certificate may take your career to the next level.
 
 I choose GCP for three more reasons. First, it's Google who published three papers(GFS, MapReduce, Bigtable) opening our minds to large-scale distributed systems. Almost every engineer who cares about scalability would be familiar with these concepts. This makes you feel natural about products on GCP rather than AWS. And Google is always standing on the frontier of technology, you could anticipate that the cutting edge research would soon be integrated into their platform, keeping yourself competent in the industry.
