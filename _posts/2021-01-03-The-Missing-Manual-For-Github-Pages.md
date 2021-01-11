@@ -16,7 +16,7 @@ First of all, you definitely want beautiful [Jekyll themes on Github](https://gi
 1. Create an empty repo named *<your Github username>.github.io* on Github as **your blog repo**. [Don’t fork a theme repo as your blog¹](https://matthiaslischka.at/2018/12/03/github-jekyll-best-practice/).
 2. Choose a Jekyll theme on [Github](https://github.com/topics/jekyll-theme). Remember, it should be a [gem-based theme²](https://jekyllrb.com/docs/themes/).
 3. **Fork it so you won’t be surprised when the author’s done something crazy³.** Now you get a *<your Github username>/<theme name>* as **your theme repo**.
-4. Copy *_config.yml*, *Gemfile* and *index.html* from your theme repo to your blog repo. Add `remote_theme: <your Github username>/<theme name>` in *_config.yml*; add `gem “jekyll-remote-theme”` in Gemfile; add `jekyll-remote-theme` to the *plugins* section of *_config.yml*.
+4. Copy *_config.yml*, *Gemfile* and *index.html* from your theme repo to your blog repo. Add `remote_theme: <your Github username>/<theme name>` in *_config.yml*; add `jekyll-remote-theme` to the *plugins* section of *_config.yml*; add `gem “jekyll-remote-theme”` in Gemfile.
 5. Add a *_posts* folder in your blog repo for articles. You can add markdown files named like `2021–01–03-Hello-World.md`.
 
 Now a personal blog is served at *<your Github username>.github.io*. If you want to specify a custom domain, go to your blog repo’s settings on Github.
